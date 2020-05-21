@@ -9,8 +9,8 @@ const IndexPage = () => {
         <div className="body">
             <img src= {Background} />
             <div className="topDiv">
-                <h1>FIVE STAR</h1>
-                <h2>Travel and Cruises</h2>
+                <h1>Hall Vacations</h1>
+                <h2>Extraordinary Trips, Fair Prices</h2>
                 <button>Book a Trip Today!</button>
                 <div className="arrowDiv">
                 <a href="#bottom"><img src={DownArrow} /></a>

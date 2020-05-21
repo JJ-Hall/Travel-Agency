@@ -17,12 +17,14 @@ const IndexPage = () => {
                 </div>
             </div>
             <div className="bottomDiv" id='bottom'>
+              <div className="bottomTextDiv">
                 <h3>ABOUT US</h3>
                 <h3>PACKAGES</h3>
                 <h3>DEALS</h3>
                 <h3>DESTINATIONS</h3>
                 <h3>TRAVEL BLOG</h3>
                 <h3>CONTACT US</h3>
+              </div>
             </div>
         </div>
       </html>

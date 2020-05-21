@@ -79,16 +79,19 @@ height: 30px;
     background-color: rgba(243, 152, 61, 0.35)
 }
 
-.bottomDiv>h3:nth-child(1) {
+.bottomTextDiv {
+    overflow: hidden;
+}
+
+.bottomTextDiv>h3:nth-child(1) {
     margin-top: 8%;
 }
 
-.bottomDiv>h3 {
+.bottomTextDiv>h3 {
     padding: 25px;
     color:whitesmoke;
-    /* hsla(240, 90%, 40%) */
 }
 
-.bottomDiv>h3:hover {
+.bottomTextDiv>h3:hover {
     transform: scale(1.5);
 }

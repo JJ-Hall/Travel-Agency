@@ -22,7 +22,7 @@ html {
 .topDiv {
     z-index: 1;
     position: relative;
-    height: 100vh;
+    height: 100%;
     text-align: center; 
 }
 
@@ -59,7 +59,7 @@ height: 30px;
 
 .arrowDiv {
     position: absolute;
-    top: 90%;
+    top: 88%;
     display: flex;
     width: 100%;
     justify-content: center;
